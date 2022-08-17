@@ -1,6 +1,3 @@
 
 I love Java
-
-Cydeo is so cool
-
-I'm writing chapter 2, first page
+edited page 1
